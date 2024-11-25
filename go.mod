@@ -7,7 +7,7 @@ require (
 	github.com/hashicorp/go-immutable-radix v1.3.1
 	github.com/lestrrat-go/jwx v1.2.30
 	github.com/spf13/viper v1.15.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
